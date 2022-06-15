@@ -2,6 +2,6 @@
   "mongoURL": "",
   "clientID": "",
   "token": "",
-  "secret": "",
+  "secret": ""
   "callbackURL": ""
 }
