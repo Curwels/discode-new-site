@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://discode:discode@cluster0.vnecs.mongodb.net/discode?retryWrites=true&w=majority",
+  "clientID": "962514803941838849",
+  "token": "OTYyNTE0ODAzOTQxODM4ODQ5.YlIpww.sTY9PAAM2Z_0gMN5Qd4Bo9hSZ9w",
+  "secret": "o0Rf1AofeKmi6f6E2wmTqigH4KQfxxAe",
+  "callbackURL": "https://discode.cf/callback"
+}
