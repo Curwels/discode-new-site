@@ -1,5 +1,5 @@
 {
-  "name": "code-sharing-website",
+  "name": "discode-code-share",
   "version": "0.0.1",
   "description": "A simple code sharing website.",
   "main": "app.js",
@@ -19,7 +19,8 @@
     "mongoose": "^5.11.13",
     "moment": "^2.29.1"
   },
-  "license": "MIT",
+  "author": "Curwels",
+  "license": "GPL-3.0",
   "devDependencies": {
     "eslint": "^7.21.0",
     "nodemon": "^2.0.7"
